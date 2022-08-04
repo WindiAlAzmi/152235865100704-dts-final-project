@@ -55,7 +55,7 @@ const Header = () => {
                 <NavLink to="/">Home</NavLink>
               </li>
               <li className="icon ">
-                <NavLink to="search">
+                <NavLink to="/search">
                   <FontAwesomeIcon icon={faMagnifyingGlass} />
                 </NavLink>
               </li>
